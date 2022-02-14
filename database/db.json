@@ -1,0 +1,72 @@
+{
+    "student":[
+        {
+            "name" : "Zonayed Ahamad",
+            "age"   :10,
+            "class" :9,
+            "roll"  :1,
+            "reg"   :165653154,
+            "result":[
+                {
+                    "bn"    :50,
+                    "en"    :60,
+                    "math"    :80,
+                    "s"    :90,
+                    "ss"    :95,
+                    "rel"    :95
+                }
+            ]
+        },
+        {
+            "name" : "Mostakim",
+            "age"   :12,
+            "class" :9,
+            "roll"  :1,
+            "reg"   :165653154,
+            "result":[
+                {
+                    "bn"    :60,
+                    "en"    :40,
+                    "math"    :80,
+                    "s"    :90,
+                    "ss"    :95,
+                    "rel"    :95
+                }
+            ]
+        },
+        {
+            "name" : "Rayhan kobir",
+            "age"   :12,
+            "class" :9,
+            "roll"  :1,
+            "reg"   :165653154,
+            "result":[
+                {
+                    "bn"    :60,
+                    "en"    :40,
+                    "math"    :80,
+                    "s"    :90,
+                    "ss"    :95,
+                    "rel"    :95
+                }
+            ]
+        },
+        {
+            "name" : "Sweet",
+            "age"   :15,
+            "class" :9,
+            "roll"  :1,
+            "reg"   :165653154,
+            "result":[
+                {
+                    "bn"    :60,
+                    "en"    :40,
+                    "math"    :80,
+                    "s"    :90,
+                    "ss"    :95,
+                    "rel"    :95
+                }
+            ]
+        }
+    ]
+}

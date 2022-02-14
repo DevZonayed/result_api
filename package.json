@@ -1,0 +1,14 @@
+{
+  "name": "result_project",
+  "version": "1.0.0",
+  "description": "This Project for result application",
+  "main": "index.js",
+  "scripts": {
+    "db":"json-server --watch ./database/db.json --port 6060"
+  },
+  "author": "Zonayed Ahamad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
