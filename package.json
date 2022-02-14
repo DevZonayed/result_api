@@ -4,7 +4,7 @@
   "description": "This Project for result application",
   "main": "index.js",
   "scripts": {
-    "db":"json-server --watch ./database/db.json --port 6060"
+    "db":"json-server --watch db.json --port 6060"
   },
   "author": "Zonayed Ahamad",
   "license": "ISC",
